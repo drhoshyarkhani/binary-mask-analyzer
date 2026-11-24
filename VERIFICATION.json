@@ -1,0 +1,30 @@
+{
+  "project": "Binary Mask Analyzer",
+  "external_dataset_inputs": [],
+  "sample_origin": "Procedural integer-indexed geometric boxes in bundled source",
+  "human_data_in_examples": false,
+  "synthetic_masks_verified_against_geometry": 7,
+  "example_database_rows": 7,
+  "example_database_source_categories": [
+    "synthetic"
+  ],
+  "personal_data_or_legacy_content_findings": 0,
+  "git_history_included": false,
+  "runtime_network_or_subprocess_modules": [],
+  "unit_tests_passed": 33,
+  "unit_tests_failed": 0,
+  "verification_python": "3.12.14",
+  "verification_platform": "Linux",
+  "code_license_status": "Custom Lawful Use and Attribution License, version 1.0; use, modification and redistribution permitted with attribution",
+  "scope": "Source, bundled procedural examples, and local demo outputs; not a guarantee covering every law or unreviewed input.",
+  "distribution_review_date": "2026-11-24",
+  "distribution_scope": "Standalone project and procedural examples only",
+  "legacy_project_directory_included": false,
+  "external_dataset_reference_findings": 0,
+  "known_owner_or_secret_scan_findings": 0,
+  "original_license_and_attribution_preserved": true,
+  "runtime_source_and_tests_unchanged": true,
+  "test_duration_seconds": 4.73,
+  "previous_local_or_remote_git_repositories_modified": false,
+  "legal_scope": "Technical and documentation review; custom terms were preserved, without a jurisdiction-specific legal opinion or guarantee."
+}

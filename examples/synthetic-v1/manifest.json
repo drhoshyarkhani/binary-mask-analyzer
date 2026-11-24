@@ -1,0 +1,187 @@
+{
+  "generator_version": "1",
+  "origin": "Integer-indexed geometric boxes defined in bundled source code",
+  "contains_human_data": false,
+  "external_dataset_inputs": [],
+  "shape": [
+    24,
+    24,
+    24
+  ],
+  "cases": [
+    {
+      "mask_id": "synthetic-0001",
+      "file": "synthetic-0001.nii.gz",
+      "geometry": "empty",
+      "boxes_xyz_size": [],
+      "spacing_mm": [
+        1,
+        1,
+        1
+      ],
+      "rotated_grid": false,
+      "expected_voxel_count": 0,
+      "expected_voxel_volume_mm3": 1.0,
+      "expected_volume_ml": 0.0,
+      "sha256": "42bb5ad8d99803ffd5e8648d58100baf06ac135c18bec50e1ee2ab73d2b0beb1"
+    },
+    {
+      "mask_id": "synthetic-0002",
+      "file": "synthetic-0002.nii.gz",
+      "geometry": "single_voxel",
+      "boxes_xyz_size": [
+        [
+          3,
+          4,
+          5,
+          1,
+          1,
+          1
+        ]
+      ],
+      "spacing_mm": [
+        1,
+        1,
+        1
+      ],
+      "rotated_grid": false,
+      "expected_voxel_count": 1,
+      "expected_voxel_volume_mm3": 1.0,
+      "expected_volume_ml": 0.001,
+      "sha256": "82080521b1cdf69fc6a4338ce2bc06c543a867445b4487bccb7c3b99adbaeff7"
+    },
+    {
+      "mask_id": "synthetic-0003",
+      "file": "synthetic-0003.nii.gz",
+      "geometry": "box",
+      "boxes_xyz_size": [
+        [
+          2,
+          3,
+          4,
+          4,
+          5,
+          6
+        ]
+      ],
+      "spacing_mm": [
+        1,
+        1,
+        1
+      ],
+      "rotated_grid": false,
+      "expected_voxel_count": 120,
+      "expected_voxel_volume_mm3": 1.0,
+      "expected_volume_ml": 0.12,
+      "sha256": "a7d43c424d9c6ee1a9904868519e41e05b9d7910239b01665506ff8aa18c735b"
+    },
+    {
+      "mask_id": "synthetic-0004",
+      "file": "synthetic-0004.nii.gz",
+      "geometry": "anisotropic_box",
+      "boxes_xyz_size": [
+        [
+          2,
+          3,
+          4,
+          3,
+          4,
+          5
+        ]
+      ],
+      "spacing_mm": [
+        2,
+        3,
+        4
+      ],
+      "rotated_grid": false,
+      "expected_voxel_count": 60,
+      "expected_voxel_volume_mm3": 24.0,
+      "expected_volume_ml": 1.44,
+      "sha256": "848125f2720c5a925cbd9411d2400a58cf600d5c20282e4af83c5004714ab6e5"
+    },
+    {
+      "mask_id": "synthetic-0005",
+      "file": "synthetic-0005.nii.gz",
+      "geometry": "two_boxes",
+      "boxes_xyz_size": [
+        [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          12,
+          12,
+          12,
+          3,
+          3,
+          3
+        ]
+      ],
+      "spacing_mm": [
+        1,
+        1,
+        1
+      ],
+      "rotated_grid": false,
+      "expected_voxel_count": 35,
+      "expected_voxel_volume_mm3": 1.0,
+      "expected_volume_ml": 0.035,
+      "sha256": "029208b36f266cca93f86e88ab829d829b6c611cd4020cf85d706af5f2370587"
+    },
+    {
+      "mask_id": "synthetic-0006",
+      "file": "synthetic-0006.nii.gz",
+      "geometry": "offset_box",
+      "boxes_xyz_size": [
+        [
+          10,
+          7,
+          3,
+          7,
+          3,
+          2
+        ]
+      ],
+      "spacing_mm": [
+        0.5,
+        0.5,
+        2
+      ],
+      "rotated_grid": false,
+      "expected_voxel_count": 42,
+      "expected_voxel_volume_mm3": 0.5,
+      "expected_volume_ml": 0.021,
+      "sha256": "7f392a25da586953a33e2c63b0aa446339204d4033d0d1cf80305c450032e6ac"
+    },
+    {
+      "mask_id": "synthetic-0007",
+      "file": "synthetic-0007.nii.gz",
+      "geometry": "rotated_grid",
+      "boxes_xyz_size": [
+        [
+          4,
+          5,
+          6,
+          2,
+          3,
+          4
+        ]
+      ],
+      "spacing_mm": [
+        1,
+        2,
+        3
+      ],
+      "rotated_grid": true,
+      "expected_voxel_count": 24,
+      "expected_voxel_volume_mm3": 6.0,
+      "expected_volume_ml": 0.144,
+      "sha256": "61974827738e21187b6b2e02743322bae062a421a7fd66967df551e9a64539d6"
+    }
+  ]
+}

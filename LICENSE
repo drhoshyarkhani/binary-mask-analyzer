@@ -1,0 +1,52 @@
+Binary Mask Analyzer — Lawful Use and Attribution License
+Version 1.0
+
+Copyright (c) 2026 Binary Mask Analyzer contributors
+
+1. Permission
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and its accompanying original documentation and procedural synthetic
+examples (the "Material"), to use, reproduce, modify, merge, publish, distribute,
+sublicense, and sell copies of the Material for lawful purposes, subject to the
+conditions below. No separate approval, registration, or usage fee is required.
+
+2. Attribution and notices
+Copies and substantial portions of the Material must retain this copyright
+notice and this license. Redistributed versions and products incorporating a
+substantial portion must acknowledge "Binary Mask Analyzer contributors" and
+"Binary Mask Analyzer" in an accessible README, documentation, credits section,
+or equivalent location, with a link to the original project source when
+available. A single reasonable acknowledgment is sufficient; attribution on
+every screen or every execution is not required. Modified distributions must
+briefly identify that changes were made and must not imply endorsement by the
+original contributors. Publications describing work that substantially uses
+this software must acknowledge it in their methods, software, or references
+section. See CITATION.md for a suggested acknowledgment.
+
+3. Lawful use and input data
+Each user is responsible for their own use, modifications, and distribution,
+and for obtaining the rights and permissions needed to process or disclose
+any data they supply. This license grants no right to access another person's
+systems or data without authorization and no permission to violate applicable
+law, privacy rights, or third-party rights. The Material is provided to
+facilitate analysis of masks supplied by users; it does not itself establish
+permission to use those inputs.
+
+4. Scope
+This license covers only rights held by the contributors in the Material.
+Third-party software and data remain subject to their own terms. No trademark
+rights or endorsement rights are granted. The original procedural examples
+are included under this license; user-supplied data are not relicensed by it.
+
+5. Disclaimer and limitation of liability
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE MATERIAL IS PROVIDED "AS IS",
+WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE SAME EXTENT,
+THE AUTHORS AND COPYRIGHT HOLDERS ARE NOT LIABLE FOR CLAIMS OR DAMAGES ARISING
+FROM USE OF THE MATERIAL, INCLUDING UNLAWFUL USE BY OTHERS. NOTHING IN THIS
+LICENSE EXCLUDES OR LIMITS LIABILITY OR RIGHTS THAT CANNOT LAWFULLY BE EXCLUDED
+OR LIMITED. Users remain responsible for their own conduct; this clause does
+not override mandatory law or excuse an author's own unlawful conduct.
+
+This is a custom license, not the MIT license. No claim of approval by the
+Open Source Initiative is made.
